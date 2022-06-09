@@ -2,7 +2,7 @@
     import {Button} from "spaper";
 </script>
 
-<footer class="flex flex-col space-y-4 items-center p-4 border border-2 bg-base-300">
+<footer class="flex flex-col space-y-4 items-center p-4 border border-2">
 
     <div class="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
         <Button isLink href="tel:+18093961859" aria-label="call">
