@@ -13,7 +13,7 @@
     <input id="my-drawer-3" type="checkbox" class="drawer-toggle">
     <div class="drawer-content flex flex-col">
         <!-- Navbar -->
-        <Navbar class="bg-base-300 items-center toolbar" fixed>
+        <Navbar class="items-center toolbar" fixed>
             <h3 class="flex items-center flex-1 px-2 mx-2 links" slot="brand">
                 <img src="https://fanedcjcmuamcxodipoz.supabase.co/storage/v1/object/public/images/cv.svg" alt=""
                      class="w-8 h-8 mr-2">
