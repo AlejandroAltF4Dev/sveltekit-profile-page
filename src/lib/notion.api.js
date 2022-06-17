@@ -4,7 +4,7 @@ import {Client} from '@notionhq/client'
  * Initialize the Notion client
  */
 export const notionClient = new Client({
-    auth: String(import.meta.env.VITE_NOTION_TOKEN || process['env']['VITE_NOTION_TOKEN'],
+    auth: String(import.meta.env.VITE_NOTION_TOKEN || process['env']['VITE_NOTION_TOKEN']),
 })
 
 /**
