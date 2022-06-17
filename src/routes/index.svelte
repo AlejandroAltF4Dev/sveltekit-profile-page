@@ -10,7 +10,7 @@
 </script>
 
 <svelte:head>
-    <title>Home</title>
+    <title>AlejandroAltF4Dev</title>
 </svelte:head>
 
 <HeroSection hero={hero[0]}/>
