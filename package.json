@@ -24,6 +24,7 @@
     "@notionhq/client": "^1.0.4",
     "cookie": "^0.4.1",
     "daisyui": "^2.14.3",
+    "papercss": "^1.8.3",
     "spaper": "^0.6.6",
     "svelte-icons": "^2.1.0"
   }
